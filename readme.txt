@@ -12,8 +12,8 @@ JPEG, GIF and BMP images.
 
 Only one walter was harmed during the production of these sources.
 
-The sourcecode may be freely used for non-comercial as long as you give
-me credit for it.
+The sourcecode may be freely used for non-comercial purposes as long as
+you give me credit for it.
 
 -Erik Faye-Lund
 aka kusma/excess
