@@ -14,4 +14,4 @@ The sourcecode may be freely used for non-comercial as long as you give me credi
 
 -Erik Faye-Lund
 aka kusma/excess
-eflund@online.no
+kusmabite@gmail.com
